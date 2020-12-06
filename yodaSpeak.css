@@ -19,6 +19,7 @@
 
 body {
     margin: 0px;
+    overflow: hidden;
     /* background-image: url('yodaImages/yoda.jpg');
     /* height: 100px; */
     /* height: 500px; */
@@ -72,6 +73,7 @@ section div {
     background-attachment: fixed;
     background-position:right center;
     background-color: rgb(188,253,255);
+    height: 65vh;
 }
 
 section .section-heading {
