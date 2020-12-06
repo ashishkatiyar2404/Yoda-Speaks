@@ -19,15 +19,10 @@
 
 body {
     margin: 0px;
-    overflow: hidden;
-    /* background-image: url('yodaImages/yoda.jpg');
-    /* height: 100px; */
-    /* height: 500px; */
-    /* padding: 0%;  */
-    /* background-repeat: repeat; */
-    /* border: 1px solid red; */
-    /* background-color: var(--secondary-color); */
 
+}
+::-webkit-scrollbar {
+    display: none;
 }
 
 
